@@ -1,1 +1,87 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+body {
+  margin: 0;
+  background: #f7f6f2;
+  color: #1f1f1f;
+  font-family: Georgia, "Times New Roman", serif;
+  line-height: 1.7;
+}
+
+.wrapper {
+  max-width: 760px;
+}
+
+.page-content {
+  padding: 64px 0 80px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+h1 {
+  font-size: 2.8rem;
+  margin-bottom: 0.4em;
+}
+
+h2 {
+  margin-top: 2.5em;
+}
+
+p {
+  font-size: 1.08rem;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 40px auto;
+  border-radius: 4px;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #d8d6cf;
+  margin: 48px 0;
+}
+
+a {
+  color: inherit;
+}
+
+.site-header {
+  border-top: 0;
+}
+
+.site-title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.site-footer {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+@media screen and (max-width: 700px) {
+  .page-content {
+    padding: 36px 0 56px;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+}
