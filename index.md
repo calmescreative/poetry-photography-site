@@ -10,3 +10,7 @@ This site is also part of a personal analytics project exploring how creative co
 - Photography
 - Collections
 - About
+
+---
+
+© 2026 Matthew Calmes. Poetry and photography. All rights reserved.
