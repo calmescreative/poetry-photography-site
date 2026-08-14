@@ -2,7 +2,7 @@
 
 *Poetry and photography by Matthew Calmes*
 
-![White Lace photograph](../photos/White Lace.jpg)
+<img src="../photos/White%20Lace.jpg" alt="White Lace photograph">
 
 And his mind floated,  
 like white lace in evening breezes.
