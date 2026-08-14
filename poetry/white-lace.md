@@ -1,5 +1,3 @@
-# White Lace
-
 *Poetry and photography by Matthew Calmes*
 
 ![White Lace photograph](../photos/White%20Lace.jpg)
